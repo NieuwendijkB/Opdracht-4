@@ -1,0 +1,60 @@
+body {
+  background-color: blanchedalmond;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  margin: auto;
+  width: 85%;
+  text-align: center;
+}
+.black-border {
+  border: 5px solid black;
+  text-align: center;
+}
+.orange-background {
+  background-color: orange;
+  border: 5px solid black;
+}
+.green-background {
+  background-color: green;
+  margin: auto;
+  font-size: large;
+}
+.red-background {
+  background-color: red;
+  font-size: large;
+  margin: auto;
+}
+.green-border {
+  border: 5px double greenyellow;
+  margin: auto;
+  padding: 0%;
+}
+.red-border {
+  border: 5px double red;
+  margin: auto;
+  padding: 0%;
+}
+.blue-border {
+  border: 5px double blue;
+  margin: auto;
+  padding: 0%;
+}
+.blue-background {
+  background-color: blue;
+  font-size: large;
+  margin: auto;
+}
+nav {
+  text-align: end;
+  font-size: 10px;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  text-align: left;
+}
